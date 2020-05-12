@@ -71,7 +71,6 @@ const styles = StyleSheet.create({
     fontSize: 24,
     lineHeight: 32,
   },
-
 });
 
 export default CircleButton;
